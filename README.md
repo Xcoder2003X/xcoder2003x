@@ -1,6 +1,5 @@
 # 👨‍💻 **Hello, I'm Ait Chikh Ayoub!** 👋
 
-![Banner](https://placekitten.com/1000/200)
 
 I'm a passionate **Software Engineer** and **Computer Science Student** always keen to learn and implement new technologies. I thrive on turning ideas into reality through code. 🚀
 
@@ -10,7 +9,6 @@ I'm a passionate **Software Engineer** and **Computer Science Student** always k
 - **Tools:** Git, Docker, VSCode, Eclips,postman...
 - **Databases:** MySQL, MongoDB..
 
-![Coding](https://placekitten.com/800/400)
 
 ## 🌱 **Currently Learning:**
 - Including Ai to my projects
@@ -32,7 +30,6 @@ I'm a passionate **Software Engineer** and **Computer Science Student** always k
 - [LinkedIn](https://www.linkedin.com/in/ayoub-ait-chikh-96b7b4291/)
 
 
-![Connect](https://placekitten.com/600/200)
 
 ## ✨ **Fun Facts:**
 - I love coffee ☕ and late-night coding sessions 🌙.
